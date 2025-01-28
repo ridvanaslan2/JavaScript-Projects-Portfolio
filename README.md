@@ -1,1 +1,1 @@
-# JavaScript-Projects-Portfolio
+This is Ridvan Aslan's portfolio website, showcasing his skills and projects as a web developer. It features a vibrant design, smooth scrolling, and responsive layout. Explore sections like "About Me," "Skills," and "Projects," or contact Ridvan at ridvan.aslan@egeacademy.ca. Open "index.html" in a browser to view the site.
